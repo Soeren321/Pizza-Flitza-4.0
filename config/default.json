@@ -1,0 +1,6 @@
+{
+    "appSecret": "",
+    "pageAccessToken": "",
+    "validationToken": "pizza_order_bot",
+    "serverURL": "https://your_domain/webhook"
+}
